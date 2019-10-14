@@ -93,5 +93,5 @@ Ukuran :'''+ukuran+'''
                 
                 
         
-client.run(os.environ['TOKEN'])
+client.run(os.environ['NjMyODUzODQ3NTEyOTczMzEy.XaSnQA.0d8fHbx1_ebhW5Jid2GBcr8v6To'])
 
